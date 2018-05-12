@@ -1,0 +1,30 @@
+_repo: Negro-Migration-during-the-War_29501
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Scott, Emmett J. (Emmett Jay)
+    birthdate: 1873
+    deathdate: 1957
+    gutenberg_agent_id: '26631'
+    url: http://www.gutenberg.org/2009/agents/26631
+    wikipedia: https://en.wikipedia.org/wiki/Emmett_Jay_Scott
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2009-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29501'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcsh 'Migration, Internal -- United States'
+- !lcsh 'World War, 1914-1918 -- Economic aspects -- United States'
+- !lcc 'E151'
+title: Negro Migration during the War
+url: http://www.gutenberg.org/ebooks/29501
